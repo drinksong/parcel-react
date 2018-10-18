@@ -2,7 +2,6 @@
 
 🚀 Build a react project by [parceljs](https://parceljs.org/).
 
-
 # Getting started
 
 1. install width yarn
